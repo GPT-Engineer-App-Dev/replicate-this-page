@@ -3,18 +3,18 @@ import { FaSearch } from "react-icons/fa";
 
 const Index = () => {
   const placeholderImages = [
-    "https://via.placeholder.com/150",
-    "https://via.placeholder.com/150",
-    "https://via.placeholder.com/150",
-    "https://via.placeholder.com/150",
-    "https://via.placeholder.com/150",
-    "https://via.placeholder.com/150",
-    "https://via.placeholder.com/150",
-    "https://via.placeholder.com/150",
-    "https://via.placeholder.com/150",
-    "https://via.placeholder.com/150",
-    "https://via.placeholder.com/150",
-    "https://via.placeholder.com/150",
+    "/images/stopwatch_placeholder_1.png",
+    "/images/stopwatch_placeholder_2.png",
+    "/images/stopwatch_placeholder_3.png",
+    "/images/stopwatch_placeholder_4.png",
+    "/images/stopwatch_placeholder_5.png",
+    "/images/stopwatch_placeholder_6.png",
+    "/images/stopwatch_placeholder_7.png",
+    "/images/stopwatch_placeholder_8.png",
+    "/images/stopwatch_placeholder_9.png",
+    "/images/stopwatch_placeholder_10.png",
+    "/images/stopwatch_placeholder_11.png",
+    "/images/stopwatch_placeholder_12.png",
   ];
 
   const filters = ["Anime", "Background", "Art", "Drawing", "Pokemon", "Car", "Logo", "Galaxy", "Dragon", "Wolf", "Girl"];
